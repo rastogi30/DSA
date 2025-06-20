@@ -40,4 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/rastogi30/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rastogi30/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Math
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rastogi30/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## String
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rastogi30/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Counting
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rastogi30/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
