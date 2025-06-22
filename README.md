@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rastogi30/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Greedy
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rastogi30/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -84,4 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
