@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rastogi30/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/rastogi30/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rastogi30/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Greedy
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/rastogi30/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rastogi30/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
