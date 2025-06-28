@@ -1,26 +1,42 @@
 class Solution {
 public:
     vector<int> maxSubsequence(vector<int>& nums, int k) {
-        vector<pair<int,int>>vec;
-        for(int i=0;i<nums.size();i++){
-            vec.push_back({i,nums[i]});
+        int n=nums.size();
+
+        if(k==n){
+            return nums;
         }
 
-        auto lambda = [](auto &p1, auto &p2){
-            return p1.second > p2.second; // sort in descending order
-        };
-        sort(vec.begin(), vec.end(), lambda);
+        vector<int>temp=nums;
+        
+        nth_element(temp.begin(), temp.begin()+k-1, temp.end(), greater<int>());
+        // ex ={5 1 2 7 4 6 9} after this let k=3 {7 9 6 5 4 1 2} place 6 at coreect place
+        // average time complexity is O(n);
 
-        // sort first k element according to the index
-        sort(vec.begin(), vec.begin()+k);
+        int kLargest=temp[k-1];
+        int countKLargest=count(temp.begin(), temp.begin()+k, kLargest);
 
         vector<int>result;
-        // store top k elemnts onlt
-        for(int i=0; i<k;i++){
-            result.push_back(vec[i].second);
+
+        for(auto num: nums){
+            if(num> kLargest){
+                result.push_back(num);
+            }
+            else if(num == kLargest && countKLargest>0){
+                result.push_back(num);
+                countKLargest--;
+            }
+
+            if(result.size()==k){
+                break;
+            }
         }
         return result;
     }
 };
 
-// tc O(nlogn);
+// in this approach we use the nthelement of c++
+// see ham ko k element se matlab h to ham sb ko kyu sort kr rahe h
+
+// nth element us ko sahi place pr place kr deta h or use se chote ko phele or fir baad wale
+// isliye reverse me kara...
