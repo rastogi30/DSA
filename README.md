@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rastogi30/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/rastogi30/DSA/tree/master/0155-min-stack) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rastogi30/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rastogi30/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
