@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rastogi30/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rastogi30/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rastogi30/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Design
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rastogi30/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Breadth-First Search
 |  |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rastogi30/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
