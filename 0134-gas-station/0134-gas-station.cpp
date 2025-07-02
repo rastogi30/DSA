@@ -1,33 +1,33 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int balance=0;
-        int start=0;
-        int kitnaKam=0;
+        int totalKamai=0;
+        int totalKharcha=0;
 
         for(int i=0;i<gas.size();i++){
-            // balance find kata jane ka kya aa  raha
-            balance+=gas[i]-cost[i];
-
-            // negative to kam me add kara..final mei check kr ne ke liye or start incresse kr diya
-            // fir se start to balance 0
-            if(balance<0){
-                kitnaKam+=balance;
-                start=i+1;
-                balance=0;
-            }
+            totalKamai+=gas[i];
+            totalKharcha+=cost[i];
         }
 
-        // kitnaKam use kiya jis se ek baar ke loop mei kam ho jaye..
-        // so balance add kr ke 0 ya positive means round complete
-        if(balance+kitnaKam >=0){
-            return start;
-        }
-        else{
+        // agar kharcha jyada to return -1 not possible
+        if(totalKharcha > totalKamai){
             return -1;
         }
+
+        int index=0;
+        int total=0;
+
+        for(int i=0;i<gas.size();i++){
+            total+=gas[i]-cost[i];
+
+            if(total<0){
+                index=i+1;
+                total=0;
+            }
+        }
+        return index;
     }
 };
 
 // Tc: O(n);
-// space : O(1);
+// space: O(1);
