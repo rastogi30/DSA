@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rastogi30/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rastogi30/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/rastogi30/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rastogi30/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rastogi30/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rastogi30/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/rastogi30/DSA/tree/master/3618-find-the-original-typed-string-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rastogi30/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
