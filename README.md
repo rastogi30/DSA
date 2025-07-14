@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rastogi30/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/rastogi30/DSA/tree/master/0148-sort-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rastogi30/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rastogi30/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/rastogi30/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rastogi30/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/rastogi30/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rastogi30/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/rastogi30/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
