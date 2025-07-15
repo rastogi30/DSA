@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rastogi30/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rastogi30/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rastogi30/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rastogi30/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rastogi30/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rastogi30/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rastogi30/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/rastogi30/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -224,8 +226,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rastogi30/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/rastogi30/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rastogi30/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/rastogi30/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
