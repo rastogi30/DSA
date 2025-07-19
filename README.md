@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rastogi30/DSA/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rastogi30/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rastogi30/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rastogi30/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rastogi30/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rastogi30/DSA/tree/master/0020-valid-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/rastogi30/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/rastogi30/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rastogi30/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rastogi30/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rastogi30/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rastogi30/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/rastogi30/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/rastogi30/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rastogi30/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
