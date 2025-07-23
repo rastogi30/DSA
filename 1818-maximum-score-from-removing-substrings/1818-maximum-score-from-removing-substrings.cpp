@@ -1,23 +1,23 @@
 class Solution {
     private:
+    // remove ab or ba without using the stack
     string solve(string s, string str,int value,int &ans){
-        stack<char>st;
-        for(int i=0;i<s.size();i++){
-            if(!st.empty() && s[i]==str[1] && st.top()==str[0]){
-                st.pop();
+         int j = 0; //for written purpose only
+
+        for (int i = 0; i < s.size(); i++) { 
+            s[j++] = s[i];
+
+            if (j > 1 &&
+                s[j - 2] == str[0] &&
+                s[j - 1] == str[1]) {
+                j -= 2;
                 ans+=value;
             }
-            else{
-                st.push(s[i]);
-            }
         }
-        string left="";
-        while(!st.empty()){
-            left+=st.top();
-            st.pop();
-        }
-        reverse(left.begin(),left.end());
-        return left;
+
+        s.erase(s.begin() + j, s.end());
+
+        return s;
     }
 public:
     int maximumGain(string s, int x, int y) {
@@ -35,3 +35,6 @@ public:
         return ans;
     }
 };
+
+// Time Complexity: O(n)
+// Space Complexity: O(1)
