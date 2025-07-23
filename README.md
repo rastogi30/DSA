@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/rastogi30/DSA/tree/master/0134-gas-station) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rastogi30/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/rastogi30/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/rastogi30/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rastogi30/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/rastogi30/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rastogi30/DSA/tree/master/0020-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rastogi30/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/rastogi30/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/rastogi30/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/rastogi30/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/rastogi30/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/rastogi30/DSA/tree/master/0155-min-stack) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/rastogi30/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
