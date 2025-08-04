@@ -1,49 +1,50 @@
 class Solution {
 public:
-    int step(vector<vector<int>>& fruits, int startPos, int left, int right){
-        int leftPos= fruits[left][0];
-        int rightPos= fruits[right][0];
-
-        // sab left mei h..left of startPos
-        if(rightPos<=startPos){
-            return startPos-leftPos;
-        }
-        
-        // sb right mei h
-        if(leftPos>=startPos){
-            return rightPos-startPos;
-        }
-
-        // first move from left to right then back and vice versa and clculate the minimum value
-        int leftToRight= (startPos-leftPos)+ (rightPos-leftPos);
-        int rightToLeft= (rightPos-startPos)+ (rightPos-leftPos);
-
-        return min(leftToRight, rightToLeft);
-    }
-
     int maxTotalFruits(vector<vector<int>>& fruits, int startPos, int k) {
         int n=fruits.size();
-        int s=0;
-        int e=0;
-        int sum=0;
-        int ans=0;
 
-        while(e<n){
-            sum+=fruits[e][1];
+        vector<int>prefixSum(n);
+        vector<int>position(n); //already sorted hoga ye
 
-            // if steps increase..decrease the window size
-            while(s<=e && step(fruits, startPos, s,e)>k){
-                sum-=fruits[s][1];
-                s++;
+        for(int i=0;i<n;i++){
+            position[i]=fruits[i][0];
+
+            prefixSum[i] = fruits[i][1] + (i>0 ? prefixSum[i-1]: 0);
+        }
+
+        int maxSum=0;
+        // d left mei move first ya right and upto k/2 beacuse remain k-2d and this is not negative
+        for(int d=0; d<=(k/2); d++){
+            // move d step in left
+            int remain= k-2*d; //(d left jane ka d aane ka)
+            int i= startPos-d;
+            int j=startPos+ remain;
+
+            int left= lower_bound(position.begin(), position.end(), i)- position.begin(); // sub so that return index
+            int right= upper_bound(position.begin(), position.end(), j)- position.begin()-1;
+
+            if(left<=right){
+                int total= prefixSum[right]- (left>0 ? prefixSum[left-1] : 0);
+                maxSum=max(maxSum, total);
             }
 
-            ans=max(ans, sum);
-            e++;
+            // case 2 first move d steps in right
+            // int remain= k-2*d reamin to same hi rahega
+             i= startPos-remain;
+             j=startPos+ d;
+
+             left= lower_bound(position.begin(), position.end(), i)- position.begin(); // sub so that return index
+             right= upper_bound(position.begin(), position.end(), j)- position.begin()-1;
+
+            if(left<=right){
+                int total= prefixSum[right]- (left>0 ? prefixSum[left-1] : 0);
+                maxSum=max(maxSum, total);
+            }
         }
-        return ans;
+        return maxSum;
     }
 };
- 
-//Time= O(n)  (two-pointer / sliding window)
-//Space = O(1)
 
+// another approach
+// Time: O(n + k * log n)
+// Space: O(n)
