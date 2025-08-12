@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rastogi30/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rastogi30/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/rastogi30/DSA/tree/master/0940-fruit-into-baskets) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rastogi30/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rastogi30/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rastogi30/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rastogi30/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/rastogi30/DSA/tree/master/0155-min-stack) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rastogi30/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rastogi30/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rastogi30/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rastogi30/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rastogi30/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rastogi30/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rastogi30/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rastogi30/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/rastogi30/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rastogi30/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/rastogi30/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rastogi30/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rastogi30/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rastogi30/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rastogi30/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/rastogi30/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/rastogi30/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Trie
@@ -416,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/rastogi30/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rastogi30/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rastogi30/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rastogi30/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
