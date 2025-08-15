@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rastogi30/DSA/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/rastogi30/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0594-longest-harmonious-subsequence](https://github.com/rastogi30/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rastogi30/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/rastogi30/DSA/tree/master/0900-reordered-power-of-2) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rastogi30/DSA/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/rastogi30/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rastogi30/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rastogi30/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/rastogi30/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rastogi30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/rastogi30/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rastogi30/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rastogi30/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rastogi30/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rastogi30/DSA/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/rastogi30/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rastogi30/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
 |  |
@@ -446,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rastogi30/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rastogi30/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rastogi30/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rastogi30/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
