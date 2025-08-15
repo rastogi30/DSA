@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rastogi30/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/rastogi30/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rastogi30/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rastogi30/DSA/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rastogi30/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rastogi30/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/rastogi30/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rastogi30/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rastogi30/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rastogi30/DSA/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rastogi30/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0900-reordered-power-of-2](https://github.com/rastogi30/DSA/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rastogi30/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rastogi30/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/rastogi30/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/rastogi30/DSA/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rastogi30/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rastogi30/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rastogi30/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
