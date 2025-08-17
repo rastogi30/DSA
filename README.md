@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rastogi30/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rastogi30/DSA/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rastogi30/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [0867-new-21-game](https://github.com/rastogi30/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/rastogi30/DSA/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rastogi30/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/rastogi30/DSA/tree/master/1448-maximum-69-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/rastogi30/DSA/tree/master/0118-pascals-triangle) |
+| [0867-new-21-game](https://github.com/rastogi30/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rastogi30/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rastogi30/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/rastogi30/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rastogi30/DSA/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rastogi30/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rastogi30/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/rastogi30/DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/rastogi30/DSA/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/rastogi30/DSA/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rastogi30/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rastogi30/DSA/tree/master/0295-find-median-from-data-stream) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/rastogi30/DSA/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
