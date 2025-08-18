@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rastogi30/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rastogi30/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rastogi30/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0208-implement-trie-prefix-tree](https://github.com/rastogi30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/rastogi30/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rastogi30/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rastogi30/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rastogi30/DSA/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/rastogi30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rastogi30/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rastogi30/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rastogi30/DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/rastogi30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/rastogi30/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rastogi30/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rastogi30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rastogi30/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/rastogi30/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Function
