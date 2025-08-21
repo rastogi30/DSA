@@ -12,45 +12,9 @@ public:
         ans.push_back(temp);
     }
 
-    bool isSafe(int row, int col, vector<vector<char>>&board, int n){
-
-        int x=row;
-        int y=col;
-
-        // check row
-        while(y>=0){
-            if(board[x][y]=='Q'){
-                return false;
-            }
-            y--;
-        }
-
-        x=row;
-        y=col;
-        // check diagonal
-        while(x>=0 && y>=0){
-            if(board[x][y]=='Q'){
-                return false;
-            }
-            x--;
-            y--;
-        }
-
-        x=row;
-        y=col;
-        // check diagonal
-        while(x<n && y>=0){
-            if(board[x][y]=='Q'){
-                return false;
-            }
-            x++;
-            y--;
-        }
-
-        return true;
-    }
-    
-    void solve(int col,  vector<vector<char>>&board, vector<vector<string>>&ans, int n){
+    void solve(int col,  vector<vector<char>>&board, vector<vector<string>>&ans, int n, unordered_map<int, bool>& left,
+               unordered_map<int, bool>& lowerDiag,
+               unordered_map<int, bool>& upperDiag){
         // base case
         if(col==n){
             addSolution(board, ans, n);
@@ -58,12 +22,18 @@ public:
         }
 
         for(int row=0; row<n;row++){
-            if(isSafe(row, col, board, n)){
+            if (!left[row] && !lowerDiag[row+col] && !upperDiag[n-1 + col-row]) {
                 board[row][col]= 'Q';
-                solve(col+1, board, ans,n);
+                left[row] = true;
+                lowerDiag[row+col] = true;
+                upperDiag[n-1 + col-row] = true;
+                solve(col+1, board, ans,n, left, lowerDiag, upperDiag);
 
                 // backtrack
                 board[row][col]='.';
+                left[row] = false;
+                lowerDiag[row+col] = false;
+                upperDiag[n-1 + col-row] = false;
             }
         }
     }
@@ -72,10 +42,15 @@ public:
         vector<vector<char>>board(n, vector<char>(n, '.'));
         vector<vector<string>>ans;
 
-        solve(0, board, ans, n);
+        unordered_map<int,bool> left,lowerDiag, upperDiag;
+
+        solve(0, board, ans, n, left, lowerDiag, upperDiag);
         return ans;
     }
 };
+// more fast..use map instead of isSafe....in map search time taken to search is O(1)
+// lowerdiagonal:row+col  make grid then see this pattern
+// upper: n-1+col-row
 
-// time: O(n*n!)
+// time: O(n*)
 // space:O(n*2);
