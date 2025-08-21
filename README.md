@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rastogi30/DSA/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/rastogi30/DSA/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rastogi30/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rastogi30/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rastogi30/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/rastogi30/DSA/tree/master/0051-n-queens) |
 | [0679-24-game](https://github.com/rastogi30/DSA/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/rastogi30/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rastogi30/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
